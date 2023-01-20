@@ -9,7 +9,7 @@ const MyApp({super.key});
 // @override
 Widget build(BuildContext context) {
 return MaterialApp(
-title: 'Flutter Demo',
+title: 'firebase project',
 theme: ThemeData(
  primarySwatch: Colors.brown,
  ),
